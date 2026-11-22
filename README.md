@@ -4,7 +4,7 @@ This repository contains the Jupyter Notebook (`SpellChecker.ipynb`) for my Hono
 
 ## Dataset
 Due to GitHub file size limits, the dataset (`Corpora.zip`) is hosted on Google Drive. 
-You can download it here: [PASTE YOUR GOOGLE DRIVE LINK HERE]
+You can download it here: [https://drive.google.com/file/d/1D1LCXwWWLh9kADtsZUN18IBX9TBZSbJ3/view?usp=sharing]
 
 ## How to Run
 1. Download the dataset from the link above.
